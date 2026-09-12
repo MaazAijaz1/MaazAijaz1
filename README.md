@@ -14,4 +14,4 @@ FinTech • Digital Banking • Financial Markets • AI • Risk & Fraud Analyt
 I'll be adding my FinTech projects here as I build them.
 
 ### Connect
-[LinkedIn]https://www.linkedin.com/in/maaz-aijaz-7a5391217?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+[LinkedIn](https://www.linkedin.com/in/maaz-aijaz-7a5391217)
