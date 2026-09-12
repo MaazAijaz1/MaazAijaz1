@@ -10,8 +10,12 @@ Python • SQL • Power BI • Data Analytics
 ### Interests
 FinTech • Digital Banking • Financial Markets • AI • Risk & Fraud Analytics
 
+
 ### Projects
-I'll be adding my FinTech projects here as I build them.
+
+Currently building practical projects around FinTech, banking and data analytics.
+
+- [Banking Customer Analysis](https://github.com/MaazAijaz1/banking-customer-analysis) — Exploring customer behaviour, digital banking usage and churn using Python.
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/maaz-aijaz-7a5391217)
