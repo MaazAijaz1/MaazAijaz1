@@ -1,16 +1,17 @@
-## Hi there 👋
+# Maaz Aijaz
 
-<!--
-**MaazAijaz1/MaazAijaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FinTech student with an interest in how technology is changing finance and banking.
 
-Here are some ideas to get you started:
+Currently exploring data analytics, digital banking, AI in finance and financial markets, while building practical projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+Python • SQL • Power BI • Data Analytics
+
+### Interests
+FinTech • Digital Banking • Financial Markets • AI • Risk & Fraud Analytics
+
+### Projects
+I'll be adding my FinTech projects here as I build them.
+
+### Connect
+[LinkedIn]https://www.linkedin.com/in/maaz-aijaz-7a5391217?utm_source=share_via&utm_content=profile&utm_medium=member_ios
